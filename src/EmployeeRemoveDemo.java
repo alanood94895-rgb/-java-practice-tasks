@@ -24,12 +24,11 @@ public class EmployeeRemoveDemo {
         String removedEmployee = String.valueOf(EmployeeRemoveDemo.remove(999));
 
         if (removedEmployee == null) {
-            System.out.println("No employee found with ID 999.");
+            System.out.println("No employee found with ID 999");
         }
         // Display final HashMap
         System.out.println("Final EmployeeRemoveDemo List:");
         System.out.println(EmployeeRemoveDemo);
     }
 }
-
 
