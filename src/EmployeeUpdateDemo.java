@@ -32,7 +32,7 @@ public class EmployeeUpdateDemo {
         //  Update another employee record
         employeeUpdateDemo.put(101, "Sultan Ahmed");
 
-        //  Display map after second update
+        //  Display Map after second update
         System.out.println("After updating employee with ID 101:");
         System.out.println(employeeUpdateDemo);
     }
