@@ -29,7 +29,7 @@ public class EmployeeCheckDemo {
         System.out.println("Checking if 'Mayar' exists:");
         System.out.println("Result: " + employees.containsValue("Mayar"));
 
-        // Check another name that does not exist
+        // Check another Name that does not exist
         System.out.println("Checking if 'Muna' exists:");
         System.out.println("Result: " + employees.containsValue("Muna"));
     }
