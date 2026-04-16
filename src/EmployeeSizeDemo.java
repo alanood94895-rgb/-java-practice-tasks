@@ -19,7 +19,7 @@ public class EmployeeSizeDemo {
         // Use size() to display total number of records
         System.out.println("Total number of employees: " + EmployeeSizeDemo.size());
 
-        //  Add one more employee record
+        //  Add One more employee record
         EmployeeSizeDemo.put("Ali", 106);
 
         //  Display updated HashMap
