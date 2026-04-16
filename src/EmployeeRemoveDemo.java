@@ -18,7 +18,7 @@ public class EmployeeRemoveDemo {
         //Remove one employee using ID
         EmployeeRemoveDemo.remove(333);
 
-        //Display after removal
+        //Display After removal
         System.out.println(EmployeeRemoveDemo);
         //  Attempt to remove non-existing ID
         String removedEmployee = String.valueOf(EmployeeRemoveDemo.remove(999));
