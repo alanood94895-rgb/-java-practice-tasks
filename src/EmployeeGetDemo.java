@@ -6,7 +6,7 @@ public class EmployeeGetDemo {
         // Add HashMap
         HashMap<Integer, String> employees = new HashMap<>();
 
-        // Add 5 employee records using put()
+        // Add 5 Employee records using put()
         employees.put(000, "Said");
         employees.put(111, "Sara");
         employees.put(222, "Noor");
