@@ -27,7 +27,7 @@ public class EmployeeIterateDemo {
             System.out.println("ID: " + entry.getKey() + ", Name: " + entry.getValue());
         }
 
-        // Add one more employee record
+        // Add One more employee record
         employeeIterateDemo.put(106, "Ali");
 
         // Display updated records
