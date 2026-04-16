@@ -15,7 +15,7 @@ public class EmployeeKeysValuesDemo {
         employeeKeysValuesDemo.put(104, "Fatima");
         employeeKeysValuesDemo.put(105, "Alanoud");
 
-        // Display all elements
+        // Display All elements
         System.out.println("Employee List:");
         System.out.println(employeeKeysValuesDemo);
 
