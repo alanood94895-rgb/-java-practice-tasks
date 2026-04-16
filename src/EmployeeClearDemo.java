@@ -25,7 +25,7 @@ public class EmployeeClearDemo {
         // Clear all elements from the HashMap
         EmployeeClearDemo.clear();
 
-        // Display HashMap after clearing
+        // Display HashMap After clearing
         System.out.println("After clearing the HashMap:");
         System.out.println(EmployeeClearDemo);
 
