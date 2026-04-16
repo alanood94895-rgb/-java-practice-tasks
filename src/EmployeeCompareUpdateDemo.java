@@ -19,7 +19,7 @@ public class EmployeeCompareUpdateDemo {
         System.out.println("Employee List:");
         System.out.println(employeeCompareUpdateDemo);
 
-        // Use get() to display current value of one employee ID
+        // Use Get() to display current value of one employee ID
         System.out.println("Current name for ID 103: " + employeeCompareUpdateDemo.get(103));
 
         // Update that employee name using put()
